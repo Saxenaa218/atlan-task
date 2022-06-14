@@ -1,5 +1,5 @@
 import React, { lazy, Suspense } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Loader from "./components/Loader";
 
 import "./App.scss";
@@ -9,7 +9,7 @@ const PeekDialog = lazy(() => import("./components/PeekDialog"));
 
 const App: React.FC = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route
           path="/"
@@ -28,7 +28,7 @@ const App: React.FC = () => {
           }
         ></Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
