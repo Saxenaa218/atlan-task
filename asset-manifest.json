@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/atlan-task/static/css/main.1457a115.css",
-    "main.js": "/atlan-task/static/js/main.8098a2ff.js",
+    "main.js": "/atlan-task/static/js/main.53177435.js",
     "static/css/885.7c653c3f.chunk.css": "/atlan-task/static/css/885.7c653c3f.chunk.css",
     "static/js/885.e972136b.chunk.js": "/atlan-task/static/js/885.e972136b.chunk.js",
     "static/css/7.c0b64171.chunk.css": "/atlan-task/static/css/7.c0b64171.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/460.c8b51d4c.chunk.js": "/atlan-task/static/js/460.c8b51d4c.chunk.js",
     "index.html": "/atlan-task/index.html",
     "main.1457a115.css.map": "/atlan-task/static/css/main.1457a115.css.map",
-    "main.8098a2ff.js.map": "/atlan-task/static/js/main.8098a2ff.js.map",
+    "main.53177435.js.map": "/atlan-task/static/js/main.53177435.js.map",
     "885.7c653c3f.chunk.css.map": "/atlan-task/static/css/885.7c653c3f.chunk.css.map",
     "885.e972136b.chunk.js.map": "/atlan-task/static/js/885.e972136b.chunk.js.map",
     "7.c0b64171.chunk.css.map": "/atlan-task/static/css/7.c0b64171.chunk.css.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.1457a115.css",
-    "static/js/main.8098a2ff.js"
+    "static/js/main.53177435.js"
   ]
 }
