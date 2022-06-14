@@ -48,18 +48,18 @@ SQL query performer for data analysts
 
 ### FAQs
 
-- The page load time of your application, and how you measured this time. -
-  Used chrome's lighthouse for generating these metrics
-  First contentful paint - 0.3s
-  Time to interactive - 0.5s
-  Speed index - 0.4s
-  Total blocking time - 0ms
-  Largest contentful paint - 0.7s
-  Cumulative layout shift - 0
-  [image for ref](https://drive.google.com/file/d/1u8U4-xq5rFX1_hk-FFd7JRRZa7oATvPO/view?usp=sharing)
+- Question: The page load time of your application, and how you measured this time?
+- Answer - Used chrome's lighthouse for generating these metrics
+- First contentful paint - 0.3s
+- Time to interactive - 0.5s
+- Speed index - 0.4s
+- Total blocking time - 0ms
+- Largest contentful paint - 0.7s
+- Cumulative layout shift - 0
+- [image for ref](https://drive.google.com/file/d/1u8U4-xq5rFX1_hk-FFd7JRRZa7oATvPO/view?usp=sharing)
 
-- Any optimisations you did to decrease the load time or increase performance.
-  using code spliting was most helpful in minimising the chunk sizes, making more chunks but smaller in size
+- Question: Any optimisations you did to decrease the load time or increase performance?
+- Answer: using code spliting was most helpful in minimising the chunk sizes, making more chunks but smaller in size
 
 ### Built With
 
