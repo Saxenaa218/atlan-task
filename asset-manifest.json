@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atlan-task/static/css/main.e838a166.css",
+    "main.js": "/atlan-task/static/js/main.8aa194c0.js",
+    "static/js/787.802a7db7.chunk.js": "/atlan-task/static/js/787.802a7db7.chunk.js",
+    "index.html": "/atlan-task/index.html",
+    "main.e838a166.css.map": "/atlan-task/static/css/main.e838a166.css.map",
+    "main.8aa194c0.js.map": "/atlan-task/static/js/main.8aa194c0.js.map",
+    "787.802a7db7.chunk.js.map": "/atlan-task/static/js/787.802a7db7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e838a166.css",
+    "static/js/main.8aa194c0.js"
+  ]
+}
