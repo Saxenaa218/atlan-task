@@ -49,10 +49,10 @@ SQL query performer for data analysts
 ### FAQs
 
 - The page load time of your application, and how you measured this time. -
-  Used chrome's lighthouse for generating these metrics
-    <p align="center">
-        <img src="https://drive.google.com/file/d/1u8U4-xq5rFX1_hk-FFd7JRRZa7oATvPO/view?usp=sharing" width="100" align="center">
-    </p>
+Used chrome's lighthouse for generating these metrics
+<p align="center">
+	<img src="https://drive.google.com/file/d/1u8U4-xq5rFX1_hk-FFd7JRRZa7oATvPO/view?usp=sharing" width="100" align="center">
+</p>
 
 - Any optimisations you did to decrease the load time or increase performance.
 
