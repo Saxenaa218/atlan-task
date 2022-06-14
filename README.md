@@ -6,7 +6,7 @@
 <p align="center">A Daily driver for data analysts.</p>
 
 <h3 align="center">
-	<a href="https://saxenaa218.github.io/atlan-task/">Live URL</a>
+	<a href="https://atlan-task-nu.vercel.app/#/">Live URL (Vercel)</a>
 </h3>
 
 <!-- TABLE OF CONTENTS -->
